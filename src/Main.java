@@ -6,5 +6,6 @@ public class Main {
         cat.jump();
 
         System.out.println("Код после git add");
+        // message from Github
     }
 }
